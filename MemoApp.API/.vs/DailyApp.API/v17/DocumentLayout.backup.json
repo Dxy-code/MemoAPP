@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\migrations\\dailydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\migrations\\dailydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\migrations\\20240308091053_longma0308.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\migrations\\20240308091053_longma0308.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\migrations\\20240306071630_longma030601.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\migrations\\20240306071630_longma030601.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\migrations\\20240306071511_longma0306.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\migrations\\20240306071511_longma0306.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\migrations\\20240229122345_longma0229.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\migrations\\20240229122345_longma0229.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\automappers\\automappersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\automappers\\automappersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\controllers\\memocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\controllers\\memocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\dailyapp.api\\dailyapp.api\\controllers\\waitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A4A0DB-6ED0-4DDD-B7E6-F010B5A8CE5F}|DailyApp.API\\DailyApp.API.csproj|solutionrelative:dailyapp.api\\controllers\\waitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DailyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Migrations\\DailyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DailyApp.API\\Migrations\\DailyDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Migrations\\DailyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DailyApp.API\\Migrations\\DailyDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:50:15.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240308091053_longma0308.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Migrations\\20240308091053_longma0308.cs",
+              "RelativeDocumentMoniker": "DailyApp.API\\Migrations\\20240308091053_longma0308.cs",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Migrations\\20240308091053_longma0308.cs",
+              "RelativeToolTip": "DailyApp.API\\Migrations\\20240308091053_longma0308.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:50:13.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240306071630_longma030601.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Migrations\\20240306071630_longma030601.cs",
+              "RelativeDocumentMoniker": "DailyApp.API\\Migrations\\20240306071630_longma030601.cs",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Migrations\\20240306071630_longma030601.cs",
+              "RelativeToolTip": "DailyApp.API\\Migrations\\20240306071630_longma030601.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:50:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240306071511_longma0306.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Migrations\\20240306071511_longma0306.cs",
+              "RelativeDocumentMoniker": "DailyApp.API\\Migrations\\20240306071511_longma0306.cs",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Migrations\\20240306071511_longma0306.cs",
+              "RelativeToolTip": "DailyApp.API\\Migrations\\20240306071511_longma0306.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:50:06.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240229122345_longma0229.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Migrations\\20240229122345_longma0229.cs",
+              "RelativeDocumentMoniker": "DailyApp.API\\Migrations\\20240229122345_longma0229.cs",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Migrations\\20240229122345_longma0229.cs",
+              "RelativeToolTip": "DailyApp.API\\Migrations\\20240229122345_longma0229.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:49:51.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DailyApp.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DailyApp.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwE8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:11:10.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapperSettings.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\AutoMappers\\AutoMapperSettings.cs",
+              "RelativeDocumentMoniker": "DailyApp.API\\AutoMappers\\AutoMapperSettings.cs",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\AutoMappers\\AutoMapperSettings.cs",
+              "RelativeToolTip": "DailyApp.API\\AutoMappers\\AutoMapperSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:10:19.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "DailyApp.API\\appsettings.json",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\appsettings.json",
+              "RelativeToolTip": "DailyApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T09:10:36.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "DailyApp.API\\Program.cs",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Program.cs",
+              "RelativeToolTip": "DailyApp.API\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:39:53.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemoController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Controllers\\MemoController.cs",
+              "RelativeDocumentMoniker": "DailyApp.API\\Controllers\\MemoController.cs",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Controllers\\MemoController.cs",
+              "RelativeToolTip": "DailyApp.API\\Controllers\\MemoController.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAkwN4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:39:53.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DailyApp.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DailyApp.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T08:39:53.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WaitController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Controllers\\WaitController.cs",
+              "RelativeDocumentMoniker": "DailyApp.API\\Controllers\\WaitController.cs",
+              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\DailyApp.API\\DailyApp.API\\Controllers\\WaitController.cs",
+              "RelativeToolTip": "DailyApp.API\\Controllers\\WaitController.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAwwBABAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:39:53.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
