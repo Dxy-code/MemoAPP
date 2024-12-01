@@ -1109,11 +1109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\DailyApp.WPF.csproj",
+      "projectUniqueName": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\DailyApp.WPF.csproj",
       "projectName": "DailyApp.WPF",
-      "projectPath": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\DailyApp.WPF.csproj",
+      "projectPath": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\DailyApp.WPF.csproj",
       "packagesPath": "C:\\Users\\dxy\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\obj\\",
+      "outputPath": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudio\\Shared\\NuGetPackages"

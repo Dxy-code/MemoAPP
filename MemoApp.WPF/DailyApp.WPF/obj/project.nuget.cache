@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YB7XLiUAudM=",
+  "dgSpecHash": "JSvSxGN8664=",
   "success": true,
-  "projectFilePath": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\DailyApp.WPF.csproj",
+  "projectFilePath": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\DailyApp.WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dxy\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",
     "C:\\Users\\dxy\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",

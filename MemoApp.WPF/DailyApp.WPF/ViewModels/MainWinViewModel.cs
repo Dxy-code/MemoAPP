@@ -1,13 +1,17 @@
-﻿using DailyApp.WPF.Models;
+﻿using DailyApp.WPF.DTOs;
+using DailyApp.WPF.Models;
 using Prism.Commands;
+using Prism.Events;
 using Prism.Mvvm;
 using Prism.Regions;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
+using System.Windows;
 
 namespace DailyApp.WPF.ViewModels
 {
@@ -55,6 +59,10 @@ namespace DailyApp.WPF.ViewModels
 
             //前进
             GoForwardCmm = new DelegateCommand(GoForward);
+
+            //退出登录
+            LogoutCmm = new DelegateCommand(Logout);
+
         }
         #endregion
 
@@ -136,11 +144,22 @@ namespace DailyApp.WPF.ViewModels
         #endregion
 
         #region 退出登录
-        public DelegateCommand LogoutCmm { get; private set; }
+        public DelegateCommand LogoutCmm { get; private set; }//退出登录命令
+
         private void Logout()
         {
-            
+            // 获取可执行文件的路径
+            string exePath = System.IO.Path.Combine(
+                System.IO.Path.GetDirectoryName(Application.ResourceAssembly.Location),
+                "DailyApp.WPF.exe");
+
+            // 退出当前应用程序
+            Application.Current.Shutdown();
+
+            // 启动新的应用程序实例
+            Process.Start(exePath);
         }
         #endregion
+
     }
 }

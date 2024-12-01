@@ -30,7 +30,7 @@
                                 <EllipseGeometry Center="24,24" RadiusX="24" RadiusY="24"></EllipseGeometry>
                             </Image.Clip>
                         </Image>
-                        <Button Content="退出登录" HorizontalAlignment="Center" DockPanel.Dock="Bottom" Command="{Binding LogoutCmm}" Click="LogoutButton_Click"></Button>
+                        <Button Content="退出登录" HorizontalAlignment="Center" DockPanel.Dock="Bottom" Command="{Binding LogoutCmm}"></Button>
 
                     </StackPanel>
                     <!--菜单列表-->

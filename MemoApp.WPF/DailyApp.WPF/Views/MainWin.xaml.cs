@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,6 +12,9 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using MaterialDesignThemes.Wpf;
+using Prism.Events;
+
 
 namespace DailyApp.WPF.Views
 {
@@ -32,6 +36,7 @@ namespace DailyApp.WPF.Views
         /// <param name="e"></param>
         private void btnMin_Click(object sender, RoutedEventArgs e)
         {
+            
             WindowState= WindowState.Minimized;
         }
 
@@ -92,11 +97,18 @@ namespace DailyApp.WPF.Views
 
         private void LogoutButton_Click(object sender, RoutedEventArgs e)
         {
+            // 获取可执行文件的路径
+            string exePath = System.IO.Path.Combine(
+                System.IO.Path.GetDirectoryName(Application.ResourceAssembly.Location),
+                "DailyApp.WPF.exe");
 
-            // 关闭当前主窗口
-            this.Close();
-            //LoginUC loginUC = new LoginUC(_Aggregator);
-            
+            // 退出当前应用程序
+            Application.Current.Shutdown();
+
+            // 启动新的应用程序实例
+            Process.Start(exePath);
+
+
         }
     }
 }

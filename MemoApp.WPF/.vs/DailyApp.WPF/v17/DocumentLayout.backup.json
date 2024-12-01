@@ -1,97 +1,125 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\",
+  "WorkspaceRootPath": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\images\\login.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\images\\login.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\images\\user.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\images\\user.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\images\\no_record.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\images\\no_record.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\mainwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\mainwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\mainwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\mainwin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\mainwin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\mainwin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\loginuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\loginuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\viewmodels\\mainwinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\viewmodels\\mainwinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\mainwinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\viewmodels\\loginucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\viewmodels\\loginucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\loginucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\viewmodels\\memoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\memoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\homeuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\service\\dialoghostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\service\\dialoghostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\loginuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\loginuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\homeuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\homeuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\viewmodels\\homeucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\homeucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\homeuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\homeuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\memouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\memouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\memouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\waituc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\waituc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\personaluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\personaluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\personaluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\dailogs\\addmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\addmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\dailogs\\addwaituc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\addwaituc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\dailogs\\editmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\editmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\dailogs\\editwaituc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\dailogs\\editwaituc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\editwaituc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\aboutusuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\aboutusuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\dailogs\\editmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\editmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\settingsuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\dailogs\\addwaituc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\addwaituc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\dailogs\\addmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\dailogs\\addmemouc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\viewmodels\\dialogs\\editmemoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\dialogs\\editmemoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\waituc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\waituc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\settingsuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\settingsuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\views\\syssetuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\syssetuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\syssetuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|d:\\visualstudio\\vsprojects\\dailyappcs\\memoapp.wpf\\dailyapp.wpf\\httpclients\\httprestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\viewmodels\\dialogs\\addwaitucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\dialogs\\addwaitucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\msgevents\\msgevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\msgevents\\msgevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\images\\login.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\images\\login.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\images\\user.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\images\\user.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\images\\no_record.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\images\\no_record.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\viewmodels\\memoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\viewmodels\\memoucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\views\\aboutusuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\views\\aboutusuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|c:\\users\\dxy\\desktop\\memo\\memoapp.wpf\\dailyapp.wpf\\httpclients\\httprestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF8DCBE-255F-4F6C-9414-06434CC9A6F9}|DailyApp.WPF\\DailyApp.WPF.csproj|solutionrelative:dailyapp.wpf\\httpclients\\httprestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -113,255 +141,257 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogHostService.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Service\\DialogHostService.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Service\\DialogHostService.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Service\\DialogHostService.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Service\\DialogHostService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:32:01.426Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "user.png - PNG [1024x1024, 32 \u4F4D, PNG]",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Images\\user.png",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Images\\user.png",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Images\\user.png - PNG [1024x1024, 32 \u4F4D, PNG]",
-              "RelativeToolTip": "DailyApp.WPF\\Images\\user.png - PNG [1024x1024, 32 \u4F4D, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-30T09:06:45.377Z",
-              "EditorCaption": " - PNG [1024x1024, 32 \u4F4D, PNG]"
+              "Title": "MainWin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\MainWin.xaml.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml.cs*",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\MainWin.xaml.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwG4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:12:33.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MainWinViewModel.cs",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\MainWinViewModel.cs",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\MainWinViewModel.cs",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\MainWinViewModel.cs",
-              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\MainWinViewModel.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAuwI0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T06:59:08.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\HomeUC.xaml",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\HomeUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\HomeUC.xaml",
-              "RelativeToolTip": "DailyApp.WPF\\Views\\HomeUC.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T17:38:32.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "login.png - PNG [48x48, 4 \u4F4D, PNG]",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Images\\login.png",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Images\\login.png",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Images\\login.png - PNG [48x48, 4 \u4F4D, PNG]",
-              "RelativeToolTip": "DailyApp.WPF\\Images\\login.png - PNG [48x48, 4 \u4F4D, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-29T16:29:10.481Z",
-              "EditorCaption": " - PNG [48x48, 4 \u4F4D, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginUC.xaml.cs",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml.cs",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\LoginUC.xaml.cs",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml.cs",
-              "RelativeToolTip": "DailyApp.WPF\\Views\\LoginUC.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T08:13:11.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "no_record.png - PNG [323x200, 32 \u4F4D, PNG]",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Images\\no_record.png",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Images\\no_record.png",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Images\\no_record.png - PNG [323x200, 32 \u4F4D, PNG]",
-              "RelativeToolTip": "DailyApp.WPF\\Images\\no_record.png - PNG [323x200, 32 \u4F4D, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-29T17:45:51.929Z",
-              "EditorCaption": " - PNG [323x200, 32 \u4F4D, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWin.xaml.cs",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml.cs",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\MainWin.xaml.cs",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml.cs",
-              "RelativeToolTip": "DailyApp.WPF\\Views\\MainWin.xaml.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAwGEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T08:12:33.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWin.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\MainWin.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml",
-              "RelativeToolTip": "DailyApp.WPF\\Views\\MainWin.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T16:13:41.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "LoginUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml",
               "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\LoginUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml",
               "RelativeToolTip": "DailyApp.WPF\\Views\\LoginUC.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-29T16:10:19.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginUCViewModel.cs",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
-              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
-              "ViewState": "AgIAAPMAAAAAAAAAAAAAwBYBAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MainWinViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\MainWinViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\MainWinViewModel.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\MainWinViewModel.cs*",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\MainWinViewModel.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T09:52:29.816Z"
+              "WhenOpened": "2024-11-30T06:59:08.238Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PersonalUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\PersonalUC.xaml",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\PersonalUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\PersonalUC.xaml",
-              "RelativeToolTip": "DailyApp.WPF\\Views\\PersonalUC.xaml",
+              "DocumentIndex": 0,
+              "Title": "MainWin.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\MainWin.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\MainWin.xaml*",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\MainWin.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T17:38:13.805Z"
+              "WhenOpened": "2024-11-29T16:13:41.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MemoUCViewModel.cs",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
-              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\App.xaml.cs",
+              "RelativeToolTip": "DailyApp.WPF\\App.xaml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwGQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:36:01.905Z"
+              "WhenOpened": "2024-12-01T09:59:26.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\LoginUCViewModel.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwCQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:52:29.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginUC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\LoginUC.xaml.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\LoginUC.xaml.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\LoginUC.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:56:51.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\HomeUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\HomeUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\HomeUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\HomeUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T17:38:32.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\App.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\App.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T16:09:45.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "MemoUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\MemoUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\MemoUC.xaml",
               "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\MemoUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\MemoUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\MemoUC.xaml",
               "RelativeToolTip": "DailyApp.WPF\\Views\\MemoUC.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-29T16:11:01.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\App.xaml",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\App.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\App.xaml",
-              "RelativeToolTip": "DailyApp.WPF\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T16:09:45.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AddMemoUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
-              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T16:12:43.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AddWaitUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddWaitUC.xaml",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\AddWaitUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddWaitUC.xaml",
-              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\AddWaitUC.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T16:12:33.984Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "WaitUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\WaitUC.xaml",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\WaitUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\WaitUC.xaml",
-              "RelativeToolTip": "DailyApp.WPF\\Views\\WaitUC.xaml",
+              "Title": "PersonalUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\PersonalUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\PersonalUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\PersonalUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\PersonalUC.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T17:37:28.609Z"
+              "WhenOpened": "2024-11-29T17:38:13.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EditMemoUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
-              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T17:39:33.622Z"
+              "DocumentIndex": 10,
+              "Title": "HomeUC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\HomeUC.xaml.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\HomeUC.xaml.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\HomeUC.xaml.cs",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\HomeUC.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:14:42.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
+              "Title": "HomeUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAkwBYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:16:31.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "EditWaitUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditWaitUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditWaitUC.xaml",
               "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\EditWaitUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditWaitUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditWaitUC.xaml",
               "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\EditWaitUC.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-29T16:13:02.387Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditMemoUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\EditMemoUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T17:39:33.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddWaitUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddWaitUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\AddWaitUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddWaitUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\AddWaitUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T16:12:33.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddMemoUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\Dailogs\\AddMemoUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T16:12:43.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditMemoUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\EditMemoUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\Dialogs\\EditMemoUCViewModel.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\EditMemoUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\Dialogs\\EditMemoUCViewModel.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:06:33.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WaitUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\WaitUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\WaitUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\WaitUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\WaitUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T17:37:28.609Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
               "Title": "SettingsUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\SettingsUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\SettingsUC.xaml",
               "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\SettingsUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\SettingsUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\SettingsUC.xaml",
               "RelativeToolTip": "DailyApp.WPF\\Views\\SettingsUC.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-29T17:38:11.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AboutUsUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\AboutUsUC.xaml",
-              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\AboutUsUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\AboutUsUC.xaml",
-              "RelativeToolTip": "DailyApp.WPF\\Views\\AboutUsUC.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T16:13:15.377Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 21,
               "Title": "SysSetUC.xaml",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\SysSetUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\SysSetUC.xaml",
               "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\SysSetUC.xaml",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\Views\\SysSetUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\SysSetUC.xaml",
               "RelativeToolTip": "DailyApp.WPF\\Views\\SysSetUC.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-29T17:38:08.243Z"
@@ -369,14 +399,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "AddWaitUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\AddWaitUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\Dialogs\\AddWaitUCViewModel.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\Dialogs\\AddWaitUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\Dialogs\\AddWaitUCViewModel.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:04:13.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MsgEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\MsgEvents\\MsgEvent.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\MsgEvents\\MsgEvent.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\MsgEvents\\MsgEvent.cs",
+              "RelativeToolTip": "DailyApp.WPF\\MsgEvents\\MsgEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:55:46.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "login.png - PNG [48x48, 4 \u4F4D, PNG]",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Images\\login.png",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Images\\login.png",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Images\\login.png - PNG [48x48, 4 \u4F4D, PNG]",
+              "RelativeToolTip": "DailyApp.WPF\\Images\\login.png - PNG [48x48, 4 \u4F4D, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-29T16:29:10.481Z",
+              "EditorCaption": " - PNG [48x48, 4 \u4F4D, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "user.png - PNG [1024x1024, 32 \u4F4D, PNG]",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Images\\user.png",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Images\\user.png",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Images\\user.png - PNG [1024x1024, 32 \u4F4D, PNG]",
+              "RelativeToolTip": "DailyApp.WPF\\Images\\user.png - PNG [1024x1024, 32 \u4F4D, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-30T09:06:45.377Z",
+              "EditorCaption": " - PNG [1024x1024, 32 \u4F4D, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "no_record.png - PNG [323x200, 32 \u4F4D, PNG]",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Images\\no_record.png",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Images\\no_record.png",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Images\\no_record.png - PNG [323x200, 32 \u4F4D, PNG]",
+              "RelativeToolTip": "DailyApp.WPF\\Images\\no_record.png - PNG [323x200, 32 \u4F4D, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-29T17:45:51.929Z",
+              "EditorCaption": " - PNG [323x200, 32 \u4F4D, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MemoUCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
+              "RelativeToolTip": "DailyApp.WPF\\ViewModels\\MemoUCViewModel.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:36:01.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AboutUsUC.xaml",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\AboutUsUC.xaml",
+              "RelativeDocumentMoniker": "DailyApp.WPF\\Views\\AboutUsUC.xaml",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\Views\\AboutUsUC.xaml",
+              "RelativeToolTip": "DailyApp.WPF\\Views\\AboutUsUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T16:13:15.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "HttpRestClient.cs",
-              "DocumentMoniker": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\HttpClients\\HttpRestClient.cs",
+              "DocumentMoniker": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\HttpClients\\HttpRestClient.cs",
               "RelativeDocumentMoniker": "DailyApp.WPF\\HttpClients\\HttpRestClient.cs",
-              "ToolTip": "D:\\VisualStudio\\VSProjects\\DailyAppCS\\MemoApp.WPF\\DailyApp.WPF\\HttpClients\\HttpRestClient.cs",
+              "ToolTip": "C:\\Users\\dxy\\Desktop\\Memo\\MemoApp.WPF\\DailyApp.WPF\\HttpClients\\HttpRestClient.cs",
               "RelativeToolTip": "DailyApp.WPF\\HttpClients\\HttpRestClient.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAA/wDMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T08:42:20.498Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
